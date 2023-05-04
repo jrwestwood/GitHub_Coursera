@@ -1,0 +1,9 @@
+apache-airflow
+apache-airflow-providers-google
+pytest
+pandas
+google-cloud-storage
+gcsfs
+google-cloud-bigquery
+pyspark
+xlrd
